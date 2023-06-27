@@ -1,0 +1,17 @@
+C:\dev\AgendaTech\AgendasTech.Application\bin\Debug\net6.0\AgendasTech.Application.deps.json
+C:\dev\AgendaTech\AgendasTech.Application\bin\Debug\net6.0\AgendasTech.Application.dll
+C:\dev\AgendaTech\AgendasTech.Application\bin\Debug\net6.0\AgendasTech.Application.pdb
+C:\dev\AgendaTech\AgendasTech.Application\bin\Debug\net6.0\AgendasTech.Domain.dll
+C:\dev\AgendaTech\AgendasTech.Application\bin\Debug\net6.0\AgendasTech.Infra.Data.dll
+C:\dev\AgendaTech\AgendasTech.Application\bin\Debug\net6.0\AgendasTech.Domain.pdb
+C:\dev\AgendaTech\AgendasTech.Application\bin\Debug\net6.0\AgendasTech.Infra.Data.pdb
+C:\dev\AgendaTech\AgendasTech.Application\obj\Debug\net6.0\AgendasTech.Application.csproj.AssemblyReference.cache
+C:\dev\AgendaTech\AgendasTech.Application\obj\Debug\net6.0\AgendasTech.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AgendaTech\AgendasTech.Application\obj\Debug\net6.0\AgendasTech.Application.AssemblyInfoInputs.cache
+C:\dev\AgendaTech\AgendasTech.Application\obj\Debug\net6.0\AgendasTech.Application.AssemblyInfo.cs
+C:\dev\AgendaTech\AgendasTech.Application\obj\Debug\net6.0\AgendasTech.Application.csproj.CoreCompileInputs.cache
+C:\dev\AgendaTech\AgendasTech.Application\obj\Debug\net6.0\AgendasTech.Application.csproj.CopyComplete
+C:\dev\AgendaTech\AgendasTech.Application\obj\Debug\net6.0\AgendasTech.Application.dll
+C:\dev\AgendaTech\AgendasTech.Application\obj\Debug\net6.0\refint\AgendasTech.Application.dll
+C:\dev\AgendaTech\AgendasTech.Application\obj\Debug\net6.0\AgendasTech.Application.pdb
+C:\dev\AgendaTech\AgendasTech.Application\obj\Debug\net6.0\ref\AgendasTech.Application.dll
