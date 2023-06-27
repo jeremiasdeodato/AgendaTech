@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YC9a4PpG7oVPCA+AMmJBxucP8C4K9GAgEuIOp/VfafM=",
+  "Source": "AgendaTech.Api",
+  "BasePath": "_content/AgendaTech.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
