@@ -9,6 +9,8 @@ namespace AgendaTech
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.            
+            builder.Services.AddCors();
+
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -27,6 +29,13 @@ namespace AgendaTech
             }
 
             app.UseHttpsRedirection();
+
+            app.UseCors(c =>
+            {
+                c.AllowAnyHeader();
+                c.AllowAnyMethod();
+                c.AllowAnyOrigin();
+            });
 
             app.UseAuthorization();
 
